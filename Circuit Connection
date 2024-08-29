@@ -1,0 +1,3 @@
+Ultrasonic Trig Pin => Arduino Uno Pin 7
+Ultrasonic Echo Pin => Arduino Uno Pin 6
+Ultrasonic Relay IN1 Pin => Arduino Uno Pin 5
